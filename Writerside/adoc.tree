@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="adoc"
+                 name="API Docs"
+                 start-page="introduction-to-react-js.md">
+
+    <toc-element topic="introduction-to-react-js.md">
+        <toc-element topic="Overview-of-React.md"/>
+        <toc-element topic="Thinking-in-React.md"/>
+    </toc-element>
+    <toc-element topic="Hooks.md">
+        <toc-element topic="Custom-Hooks.md"/>
+    </toc-element>
+</instance-profile>
